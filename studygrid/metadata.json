@@ -1,0 +1,5 @@
+{
+  "name": "StudyGrid",
+  "description": "A gamified study application using Gemini to turn topics into a grid-clearing logic game.",
+  "requestFramePermissions": []
+}
